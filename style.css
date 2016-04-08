@@ -1,0 +1,10 @@
+fieldset{
+      border-radius:5px;
+  }
+input{
+     border-radius:5px;
+     border-color:#33cc33;
+  }
+legend{
+    color:#33cc33;
+  }
